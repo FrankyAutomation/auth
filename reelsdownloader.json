@@ -1,1 +1,20 @@
-{}
+{
+    "authorized_keys": [
+        {
+            "key": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+            "user": "User1-PC",
+            "added_on": "2024-01-15"
+        },
+        {
+            "key": "d2719b5e-7c4e-4e99-8b57-9b8d0f9f7c5e",
+            "user": "User2-PC",
+            "added_on": "2024-01-16"
+        },
+        {
+            "key": "your-newly-received-key",
+            "user": "NewUser-PC",
+            "added_on": "2024-12-19"
+        }
+        // Add more keys as needed
+    ]
+}
